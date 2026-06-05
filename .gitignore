@@ -1,0 +1,8 @@
+venv/
+.venv/
+newenv/
+
+__pycache__/
+*.pyc
+
+.DS_Store
