@@ -1,4 +1,4 @@
-# Employee ETL Project
+# Healthcare Analytics ETL Project
 
 ## Overview
 This project demonstrates an end-to-end ETL pipeline using Python, PostgreSQL, SQL, and Tableau.

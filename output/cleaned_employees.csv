@@ -1,8 +1,0 @@
-employee_id,name,department,salary,bonus
-101,John,IT,70000.0,7000.0
-102,Sarah,HR,65000.0,6500.0
-103,Mike,Finance,80000.0,8000.0
-104,Emma,IT,72000.0,7200.0
-105,David,Marketing,60000.0,6000.0
-106,Unknown,IT,75000.0,7500.0
-107,Alice,HR,70333.33333333333,7033.333333333333
